@@ -51,6 +51,34 @@ You can view the full project idea and documentation in:
 
 ---
 
+## 🕹️ Gameplay Preview
+
+![Gameplay Preview](GameGif.gif)
+
+## ⚠️ Windows SmartScreen Warning
+
+> **Note:** When you run the installer, Windows may show a warning like:
+>
+> *"Windows protected your PC"*  
+> or  
+> *"This app might be unsafe"*
+>
+> This happens because the installer is **not digitally signed** — which is normal for student or personal projects.
+>
+> You can safely run it by clicking:
+>
+> **More info → Run anyway**
+>
+> ✅ The installer contains only the game files and does **not** make system changes.
+
+---
+
+## 💾 Download Setup
+
+👉 [Click here to download the game installer (Windows)](https://drive.google.com/file/d/1-K2yd3fP8b_kAnHmdSom57POUSd35zYn/view?usp=drive_link)
+
+---
+
 ## 🛠️ Setup Notes
 
 - You must have **SFML** installed (version 2.x).

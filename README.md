@@ -1,6 +1,6 @@
 # 🕹️ Time Traveler's Quest
 
-**Time Traveler's Quest** is a C++ and SFML-based 2D adventure game where the player travels between past and present to solve puzzles and open paths.
+**Time Traveler's Quest** is a C++ and SFML-based 2D adventure game which I have build in my first semester as my project, where the player travels between past and present to solve puzzles and open paths.
  Your objective is to find the keys some are in the past to unlock the door — all while navigating environmental challenges and solving riddles.
 
 ---
